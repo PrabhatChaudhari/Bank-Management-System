@@ -5,8 +5,8 @@ A class to represent a bank account. It contains
 Data Members:
 1. Name of the depositor
 2. Account Number
-4.. Type of account
-5. Balance
+3. Type of account
+4. Balance
 
 Member Functions:
 1. To assign initial values
