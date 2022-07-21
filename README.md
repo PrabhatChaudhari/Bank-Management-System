@@ -1,15 +1,16 @@
 # Bank-Management-System
 
 A class to represent a bank account. It contains
+
 • Data Members:
-o Name of the depositor
-o Account Number
-o Type of account
-o Balance
+1. Name of the depositor
+2. Account Number
+4.. Type of account
+5. Balance
 Member Functions:
-o To assign initial values
-o To deposit an amount
-o To withdraw an amount < amount available
-o Display the name and balance.
+1. To assign initial values
+2. To deposit an amount
+3. To withdraw an amount < amount available
+4. Display the name and balance.
 
 run the .dev file to avoid any compilation errors
